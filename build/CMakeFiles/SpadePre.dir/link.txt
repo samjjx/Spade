@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/SpadePre.dir/main.cpp.o  -o SpadePre 

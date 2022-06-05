@@ -1,0 +1,3 @@
+/home/jxjiang/dev/git/Spade/build/CMakeFiles/rebuild_cache.dir
+/home/jxjiang/dev/git/Spade/build/CMakeFiles/edit_cache.dir
+/home/jxjiang/dev/git/Spade/build/CMakeFiles/SpadePre.dir

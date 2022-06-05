@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jxjiang/dev/git/Spade/header/argument.h
+
+/home/jxjiang/dev/git/Spade/header/define.h
+string
+-
+
+/home/jxjiang/dev/git/Spade/header/edge.h
+define.h
+/home/jxjiang/dev/git/Spade/header/define.h
+
+/home/jxjiang/dev/git/Spade/header/spade.h
+algorithm
+-
+queue
+-
+vector
+-
+argument.h
+/home/jxjiang/dev/git/Spade/header/argument.h
+define.h
+/home/jxjiang/dev/git/Spade/header/define.h
+edge.h
+/home/jxjiang/dev/git/Spade/header/edge.h
+
+/home/jxjiang/dev/git/Spade/main.cpp
+cstdio
+-
+fstream
+-
+iostream
+-
+header/argument.h
+/home/jxjiang/dev/git/Spade/header/argument.h
+header/define.h
+/home/jxjiang/dev/git/Spade/header/define.h
+header/spade.h
+/home/jxjiang/dev/git/Spade/header/spade.h
+
