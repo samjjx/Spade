@@ -3,4 +3,4 @@ project(SpadePre)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(SpadePre main.cpp)
+add_executable(Spade spade.cpp)
