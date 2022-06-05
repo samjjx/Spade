@@ -16,7 +16,7 @@ Execute the following commands to download and compile the source code
 
 ./sample/sample.gra is a graph. 
 
-- The first line are two integers (n is the number of vertices and m is the number of the edges)
+- The first line contains two integers (n is the number of vertices and m is the number of the edges)
 
     n   m
 
@@ -28,7 +28,7 @@ u is the source vertex, v is the target vertex, and w is the weight on the edge
 
 ./sample/sample.inc is the increment.
 
-- The first line is an integer (m is the number of edges)
+- The first line contains an integer (m is the number of edges)
 
 - Line 2 to Line m + 1: each line is an edge.
 
