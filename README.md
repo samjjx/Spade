@@ -39,11 +39,13 @@ sample.inc is the increment.
 
 ## Licensing
 
-All data is subjected to the MIT open source licensing scheme. For more details, please see [licensing]()
+All data is subjected to the MIT open source licensing scheme. For more details, please see [licensing](https://github.com/samjjx/Spade/blob/master/LICENSE)
 
 ## Related Publications
 
 Jiaxin Jiang, Yuan Li, Bingsheng He, Bryan Hooi, Jia Chen and Johan Kok Zhi Kang. Spade: A Real-Time Fraud Detection Framework on Evolving Graphs. VLDB, 2023.
+
+- [Complete version](https://github.com/samjjx/Spade/blob/master/Spade-complete-version.pdf)
 
 ## Acknowledgement
 
